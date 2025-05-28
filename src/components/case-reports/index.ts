@@ -1,0 +1,5 @@
+export { default as Demographics } from "./Demographics"
+export { default as PtHistory } from "./PtHistory"
+export { default as ClinicalExam } from "./ClinicalExam"
+export { default as Diagnostics } from "./Diagnostics"
+export { default as Introduction } from "./Introduction"
