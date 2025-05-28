@@ -19,8 +19,8 @@ This project demonstrates how to build complex forms for collecting case report 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/case-reporting.git
-cd case-reporting
+git clone https://github.com/Dr-Muwanga/complex-forms.git
+cd complex-forms
 npm install
 ```
 
